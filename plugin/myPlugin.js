@@ -1,7 +1,6 @@
 module.exports = a;
 //处理静态资源服务器  图片服务器 换成url地址
 function a(){
-
 }
 
 const fs = require('fs')
